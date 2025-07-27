@@ -21,7 +21,7 @@
   Tracks DSA problems with pixel-style UI.  
   [🔗 Live Demo](https://scintillating-babka-3379e4.netlify.app/) | [📂 Repo](https://github.com/Geek-Rajveer/dsatracker)
 
-**HAPPY MATH**  
+- **HAPPY MATH**  
   2D Maths game makes basic maths fun  
   [🔗 Live Demo](https://leafy-bunny-c7fb70.netlify.app/) | [📂 Repo](https://github.com/Geek-Rajveer/Happy-Math)
 
