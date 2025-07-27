@@ -1,4 +1,10 @@
-<h1 align="center">👋 Hi, I'm Rajveer</h1>
+<!-- Typing animation SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rajveer+%F0%9F%91%8B;Full-Stack+Java+Developer;Spring+Boot+%7C+MongoDB+%7C+DSA+Lover;Retro+UI+%2B+JS+Game+Builder" alt="Typing SVG" />
+</p>
+
+<!-- Waving emoji animation -->
+<h1 align="center">Hey there! <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="35px" alt="hi" style="vertical-align:middle" /></h1>
 
 <p align="center">
   🚀 Full-Stack Java Developer • Spring Boot • MongoDB • DSA Enthusiast <br/>
@@ -61,9 +67,3 @@ A fun 2D educational math game for kids and learners.
 ## 🕹️ Fun Fact
 
 > "I love building retro-inspired interfaces and games — nostalgia meets code!" 🕹️💾
-
----
-
-<!-- Optional banner -->
-<!-- You can generate a pixel art banner at https://www.piskelapp.com/ and upload it in your repo as banner.gif or banner.png -->
-<!-- ![banner](./banner.gif) -->
