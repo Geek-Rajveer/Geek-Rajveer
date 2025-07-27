@@ -1,10 +1,8 @@
-<!-- Typing animation SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rajveer+%F0%9F%91%8B;Full-Stack+Java+Developer;Spring+Boot+%7C+MongoDB+%7C+DSA+Lover;Retro+UI+%2B+JS+Game+Builder" alt="Typing SVG" />
-</p>
+<h1 align="center">👋 Hi, I'm Rajveer</h1>
 
-<!-- Waving emoji animation -->
-<h1 align="center">Hey there! <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="35px" alt="hi" style="vertical-align:middle" /></h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Rajveer coding" />
+</p>
 
 <p align="center">
   🚀 Full-Stack Java Developer • Spring Boot • MongoDB • DSA Enthusiast <br/>
