@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Rajveer</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Rajveer coding" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="Rajveer typing" />
 </p>
 
 <p align="center">
@@ -51,6 +51,10 @@ Track solved problems and progress with a retro pixel UI.
 A fun 2D educational math game for kids and learners.  
 🔗 [Live Demo](https://leafy-bunny-c7fb70.netlify.app/) • 📂 [Repo](https://github.com/Geek-Rajveer/Happy-Math)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Retro game" />
+</p>
+
 ---
 
 ## 📈 GitHub Stats
@@ -65,3 +69,7 @@ A fun 2D educational math game for kids and learners.
 ## 🕹️ Fun Fact
 
 > "I love building retro-inspired interfaces and games — nostalgia meets code!" 🕹️💾
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="brain coding gif" />
+</p>
