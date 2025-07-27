@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://extraordinary-gingersnap-290c20.netlify.app/">🌐 Portfolio</a> • 
+  <a href="https://steady-brigadeiros-aa0c55.netlify.app/">🌐 Portfolio</a> • 
   <a href="https://leetcode.com/u/rajveer831908/">💻 LeetCode</a> • 
   <a href="mailto:rajveersengar03@gmail.com">📬 Email</a>
 </p>
